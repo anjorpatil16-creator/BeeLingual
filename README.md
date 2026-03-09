@@ -64,14 +64,13 @@ python Mandarin.py
 BeeLingual/
 │
 ├── index.html              ← Language selector page
-├── img1.jpeg               ← Background image
 │
-├── French.py / French.exe
-├── German.py / German.exe
-├── Mandarin.py / Mandarin.exe
-├── Portugese.py / Portugese.exe
-├── Russian.py / Russian.exe
-├── Spanish.py / Spanish.exe
+├── French.py 
+├── German.py 
+├── Mandarin.py 
+├── Portugese.py 
+├── Russian.py 
+├── Spanish.py 
 │
 ├── data/
 │   ├── french_words.csv        ← Word dataset
